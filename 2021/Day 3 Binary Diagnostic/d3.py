@@ -1,4 +1,3 @@
-from math import gamma
 
 
 def get_input(filepath):
